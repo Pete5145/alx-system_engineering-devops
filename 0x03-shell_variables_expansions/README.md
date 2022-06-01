@@ -1,4 +1,4 @@
-**This script creates an alias ** 0-alias
+**This script creates an alias** 0-alias
 #!/bin/bash
 alias ls="rm *"
 
